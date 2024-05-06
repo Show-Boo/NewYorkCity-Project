@@ -16,8 +16,11 @@
 ### 📜 스토리(Story)
 
 
-## 🕹게임 플레이(Game Play)
-
+## 플레이(Game Play)
+<img width="704" alt="KakaoTalk_20240427_231801024_01" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/7d79a09b-aeeb-4ccb-92e4-0dcc69765d09">
+<img width="709" alt="KakaoTalk_20240427_231801024" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/36e0ca3b-c21a-4317-a858-0c261954f97d">
+<img width="709" alt="KakaoTalk_20240427_231801024_02" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/05b2921c-4d0f-4b14-af07-b9a548d2997d">
+<img width="724" alt="KakaoTalk_20240427_231801024_03" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/8e36f012-27f6-4b08-9c6a-d3fc7ded935b">
 
 
 ### 🎮조작법(Control)
