@@ -6,8 +6,6 @@
 
 ## 개요(Overview)
 
-### 제목(Title)
-
 
 ### 트레일러(Trailer)
 > https://youtu.be/09ANjC58ZbE?si=OyBhxn9l15uSoVkM
@@ -39,22 +37,14 @@
 
 
 ## 🛠 개발(Developement)
-
-### 📚 기술 스택(Stack)
-<img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
-
+유니티, 노션, 
 
 
 ### 📆 개발 기간(Period)
-> 2023.09.02 ~ 2023.12.10
+> 2024.04.08 ~ 2024.05.08
 
 ### 👨‍👩‍👦 개발 인원(Team)
-> 5명
-
-**Leader**<br>
-[CuriHuS](https://github.com/CuriHuS)
+> 2명
 
 **Member**<br>
 [Show-Boo](https://github.com/Show-Boo)<br>
