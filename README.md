@@ -22,6 +22,8 @@
 ### 📜 스토리(Story)
 
 
+
+
 ### 플레이(Game Play)
 <img width="400" height="200" alt="KakaoTalk_20240427_231801024_01" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/7d79a09b-aeeb-4ccb-92e4-0dcc69765d09"> 
 <img width="400" height="200" alt="KakaoTalk_20240427_231801024" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/36e0ca3b-c21a-4317-a858-0c261954f97d">
