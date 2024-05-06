@@ -14,15 +14,17 @@
 > 💻 Windows
 
 ### 📜 등장인물(Character)
-![KakaoTalk_20240504_181812137_01](https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/132da248-cd37-47e2-a4f8-cbd74f0dfe03)
-![KakaoTalk_20240504_181812137](https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/1bb4c75e-1b2a-429f-b551-eb241e6fe015)
+| 이미지1 | 이미지2 |
+|---------|---------|
+| <img src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/1bb4c75e-1b2a-429f-b551-eb241e6fe015" width="400" height="400"> | <img src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/132da248-cd37-47e2-a4f8-cbd74f0dfe03" width="400" height="400"> |
+
 
 ### 📜 스토리(Story)
 
 
 ### 플레이(Game Play)
 <img width="400" height="200" alt="KakaoTalk_20240427_231801024_01" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/7d79a09b-aeeb-4ccb-92e4-0dcc69765d09"> 
-<img width="400" height="200" alt="KakaoTalk_20240427_231801024" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/36e0ca3b-c21a-4317-a858-0c261954f97d">|
+<img width="400" height="200" alt="KakaoTalk_20240427_231801024" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/36e0ca3b-c21a-4317-a858-0c261954f97d">
 <img width="400" height="200" alt="KakaoTalk_20240427_231801024_02" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/05b2921c-4d0f-4b14-af07-b9a548d2997d"> 
 <img width="400" height="200" alt="KakaoTalk_20240427_231801024_03" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/8e36f012-27f6-4b08-9c6a-d3fc7ded935b">
 
