@@ -13,6 +13,10 @@
 ### 플랫폼(Platform)
 > 💻 Windows
 
+### 📜 등장인물(Character)
+![KakaoTalk_20240504_181812137_01](https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/132da248-cd37-47e2-a4f8-cbd74f0dfe03)
+![KakaoTalk_20240504_181812137](https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/1bb4c75e-1b2a-429f-b551-eb241e6fe015)
+
 ### 📜 스토리(Story)
 
 
