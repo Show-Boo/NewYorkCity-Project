@@ -38,6 +38,8 @@ However, engrossed in their sightseeing, they witness their ship crossing the ho
 <img width="400" height="200" alt="KakaoTalk_20240427_231801024" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/36e0ca3b-c21a-4317-a858-0c261954f97d">
 <img width="400" height="200" alt="KakaoTalk_20240427_231801024_02" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/05b2921c-4d0f-4b14-af07-b9a548d2997d"> 
 <img width="400" height="200" alt="KakaoTalk_20240427_231801024_03" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/8e36f012-27f6-4b08-9c6a-d3fc7ded935b">
+<img width="400" height="200" alt="DOGGY" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/2fc5fa45-9716-49c2-9990-b2118d8ad4fa">
+<img width="400" height="200" alt="2SOL" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/76cc1032-0149-4411-ac28-4c9c4084ce09">
 
 
 ### 🎮조작법(Control)
