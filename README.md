@@ -1,5 +1,5 @@
 # NewYorkCity-Project
-<img width="1273" alt="finalimage" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/c0524679-e811-43ff-92e3-e4b15e256036">
+<img width="600" alt="finalimage" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/c0524679-e811-43ff-92e3-e4b15e256036">
 
 ## 💾다운로드(Download)
 https://drive.google.com/file/d/1SQGsn5h9YekdmNMDm0HiztVIXvVZXlHY/view?usp=sharing
