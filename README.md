@@ -48,8 +48,10 @@ https://drive.google.com/file/d/1SQGsn5h9YekdmNMDm0HiztVIXvVZXlHY/view?usp=shari
 
 
 ## 🛠 개발(Developement)
-유니티, 깃허브, 노션, 스케치, 퀵셀브릿지, 유니티에셋스토어, 프리미어 프로
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
++Sketchfab, Quixel Bridge, Unity asset store
 
 ### 📆 개발 기간(Period)
 > 2024.04.08 ~ 2024.05.08
