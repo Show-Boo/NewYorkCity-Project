@@ -1,11 +1,11 @@
 # NewYorkCity-Project
-<img width="600" alt="finalimage" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/c0524679-e811-43ff-92e3-e4b15e256036">
+<img width="800" alt="finalimage" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/c0524679-e811-43ff-92e3-e4b15e256036">
 
 ## 💾다운로드(Download)
 https://drive.google.com/file/d/1SQGsn5h9YekdmNMDm0HiztVIXvVZXlHY/view?usp=sharing
 
 ## 개요(Overview)
-
+In 80 days of literature around the world, an event in which a group of protagonists pass through New York is turned into a game.
 
 ### 트레일러(Trailer)
 > https://youtu.be/09ANjC58ZbE?si=OyBhxn9l15uSoVkM
@@ -20,8 +20,14 @@ https://drive.google.com/file/d/1SQGsn5h9YekdmNMDm0HiztVIXvVZXlHY/view?usp=shari
 
 
 ### 📜 스토리(Story)
+After embarking on an 80-day journey around the world, Mr. Fogg finally arrives in New York after numerous twists and turns, taking a train across the American continent. With only two days to stay in New York, they must make it to London within the allotted time.
 
+Following Passepartout's lifelong dream of visiting New York, they explore Central Park, Flat Iron building, New York Times Building, Empire State Building, and the Statue of Liberty. At each location, they encounter cut-scenes, signs, and screens depicting the cultural feature of New York City and references to novels.
 
+However, engrossed in their sightseeing, they witness their ship crossing the horizon, missing the China vessel by a margin of 45 minutes. Nonetheless, they board the last hope, the steamboat Henrietta, bound for London.
+
+- Cut-scenes which we made are the video introducing the plot and information about the New York City. When the player arrive at each location, a cut-scene video of important content related to the place or in relation to the novel content is played at that point. In the cut-scene, the conversation of Mr.Fogg and Passepartout is played out.
+- Signs are the text of the information related to New York.
 
 
 ### 플레이(Game Play)
@@ -43,8 +49,6 @@ https://drive.google.com/file/d/1SQGsn5h9YekdmNMDm0HiztVIXvVZXlHY/view?usp=shari
 **게임 재시작(Replay Game)**: `P`<br>
 
 **게임 종료**: `ESC`<br>
-
-### 설명(Detail)
 
 
 ## 🛠 개발(Developement)
