@@ -60,7 +60,7 @@ However, engrossed in their sightseeing, they witness their ship crossing the ho
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-+Sketchfab, Quixel Bridge, Unity asset store
+
 
 ### 📆 개발 기간(Period)
 > 2024.04.08 ~ 2024.05.08
