@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1SQGsn5h9YekdmNMDm0HiztVIXvVZXlHY/view?usp=shari
 In 80 days of literature around the world, an event in which a group of protagonists pass through New York is turned into a game.
 
 ### 트레일러(Trailer)
-> https://youtu.be/09ANjC58ZbE?si=OyBhxn9l15uSoVkM
+>
 
 ### 플랫폼(Platform)
 > 💻 Windows
