@@ -1,8 +1,8 @@
 # NewYorkCity-Project
 <img width="800" alt="finalimage" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/c0524679-e811-43ff-92e3-e4b15e256036">
 
-<img width="600" alt="SOL" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/b5a699e4-cc8e-4d6e-93a3-99b972e86718">
-<img width="600" alt="ESBB" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/012e02ea-9d30-4515-9cb6-0257b0bbe8dd">
+<img width="500" alt="SOL" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/b5a699e4-cc8e-4d6e-93a3-99b972e86718">
+<img width="500" alt="ESBB" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/012e02ea-9d30-4515-9cb6-0257b0bbe8dd">
 ## 💾다운로드(Download)
 https://drive.google.com/file/d/1SQGsn5h9YekdmNMDm0HiztVIXvVZXlHY/view?usp=sharing
 
