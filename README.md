@@ -48,7 +48,7 @@ https://drive.google.com/file/d/1SQGsn5h9YekdmNMDm0HiztVIXvVZXlHY/view?usp=shari
 
 
 ## 🛠 개발(Developement)
-유니티, 노션, 
+유니티, 깃허브, 노션, 스케치, 퀵셀브릿지, 유니티에셋스토어, 프리미어 프로
 
 
 ### 📆 개발 기간(Period)
