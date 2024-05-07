@@ -49,7 +49,7 @@ https://drive.google.com/file/d/1SQGsn5h9YekdmNMDm0HiztVIXvVZXlHY/view?usp=shari
 
 ## 🛠 개발(Developement)
 유니티, 깃허브, 노션, 스케치, 퀵셀브릿지, 유니티에셋스토어, 프리미어 프로
-
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
 
 ### 📆 개발 기간(Period)
 > 2024.04.08 ~ 2024.05.08
