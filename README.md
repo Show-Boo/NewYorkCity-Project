@@ -33,7 +33,7 @@ However, engrossed in their sightseeing, they witness their ship crossing the ho
 - Signs are the text of the information related to New York.
 
 
-### 플레이(Game Play)
+### 플레이(Play)
 <img width="400" height="200" alt="KakaoTalk_20240427_231801024_01" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/7d79a09b-aeeb-4ccb-92e4-0dcc69765d09"> 
 <img width="400" height="200" alt="KakaoTalk_20240427_231801024" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/36e0ca3b-c21a-4317-a858-0c261954f97d">
 <img width="400" height="200" alt="KakaoTalk_20240427_231801024_02" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/05b2921c-4d0f-4b14-af07-b9a548d2997d"> 
